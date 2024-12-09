@@ -1,0 +1,7 @@
+export default {
+  BASE_URL: "https://backend-prod.epns.io/apis",
+  YOUTUBE_API_KEY: "AIzaSyBrzkFPyNmVDFzGY7dKz2HocUO4m-ni-Fc",
+  EPNS_CORE_CONTRACT: "0x66329Fdd4042928BfCAB60b179e1538D56eeeeeE",
+  EPNS_COMMUNICATOR_CONTRACT: 
+"0xb3971BCef2D791bc4027BbfedFb47319A4AAaaAa",
+};
